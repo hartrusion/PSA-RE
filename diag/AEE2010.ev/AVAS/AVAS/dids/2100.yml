@@ -31,12 +31,12 @@ params:
     type: 'uint'
     factor: 0.00006103515625
     comment:
-      en: 'Highest accepted gain of VOLUME_REAR_PARKING_ASSISTANCE in 0x2101, read 00 40 = 0x4000 = 1.0 (full level, 0 dB)'
-      de: 'Höchste angenommene Verstärkung von VOLUME_REAR_PARKING_ASSISTANCE in 0x2101, gelesen 00 40 = 0x4000 = 1,0 (volle Lautstärke, 0 dB)'
-      fr: 'Gain le plus élevé accepté pour VOLUME_REAR_PARKING_ASSISTANCE dans 0x2101, lu 00 40 = 0x4000 = 1,0 (niveau maximal, 0 dB)'
-      es: 'Ganancia más alta aceptada de VOLUME_REAR_PARKING_ASSISTANCE en 0x2101, leído 00 40 = 0x4000 = 1,0 (nivel máximo, 0 dB)'
-      pl: 'Najwyższe akceptowane wzmocnienie VOLUME_REAR_PARKING_ASSISTANCE w 0x2101, odczytano 00 40 = 0x4000 = 1,0 (pełny poziom, 0 dB)'
-      hu: 'A VOLUME_REAR_PARKING_ASSISTANCE legnagyobb elfogadott erősítése a 0x2101-ben, kiolvasva 00 40 = 0x4000 = 1,0 (teljes szint, 0 dB)'
+      en: 'Highest accepted gain of VOLUME_REAR_PARKING_ASSISTANCE in 0x2101, read 0x4000 = 1.0 (full level, 0 dB)'
+      de: 'Höchste angenommene Verstärkung von VOLUME_REAR_PARKING_ASSISTANCE in 0x2101, gelesen 0x4000 = 1,0 (volle Lautstärke, 0 dB)'
+      fr: 'Gain le plus élevé accepté pour VOLUME_REAR_PARKING_ASSISTANCE dans 0x2101, lu 0x4000 = 1,0 (niveau maximal, 0 dB)'
+      es: 'Ganancia más alta aceptada de VOLUME_REAR_PARKING_ASSISTANCE en 0x2101, leído 0x4000 = 1,0 (nivel máximo, 0 dB)'
+      pl: 'Najwyższe akceptowane wzmocnienie VOLUME_REAR_PARKING_ASSISTANCE w 0x2101, odczytano 0x4000 = 1,0 (pełny poziom, 0 dB)'
+      hu: 'A VOLUME_REAR_PARKING_ASSISTANCE legnagyobb elfogadott erősítése a 0x2101-ben, kiolvasva 0x4000 = 1,0 (teljes szint, 0 dB)'
 
   POSSIBILITY_SELECTION_SOUND_ALERT:
     bits: '6.7-6.0'
